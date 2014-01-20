@@ -1,0 +1,140 @@
+/*
+Theme Name:     Vuyiroli
+Author:         Star Verte LLC
+Author URI:     http://starverte.com/
+Description:    Child theme for Flint; developed for Vuyiroli site.
+Template:       flint
+Version:        0.1
+License:        GPLv3 or later
+
+    Copyright 2013  Star Verte LLC  (email : info@starverte.com)
+    
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 2, as 
+    published by the Free Software Foundation.
+    
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+    
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+    
+    You should have received a copy of the GNU General Public License
+    along with Flint.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+@import url("../flint/style.css");
+
+/* =Global
+----------------------------------------------- */
+
+body {
+}
+.container {
+  max-width: 867px;
+}
+#primary {
+  margin-top: 0;
+}
+#front-sponsor {
+  padding: 0;
+}
+#front-sponsor img {
+  padding: 0;
+  padding-top: 5px;
+  margin-left: 5px;
+  margin-right: -5px;
+}
+#front-sponsor div {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+.btn-primary {
+    color: #fff !important;
+    background-color: #00288c;
+    border-color: #002173;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    color: #fff !important;
+    background-color: #001d66;
+    border-color: #00164d;
+}
+
+
+/* =Header
+----------------------------------------------- */
+
+#banner {
+  padding-top: 0;
+}
+.navbar-nav>li>a {
+  padding-top: 5px;
+  padding-right: 13px;
+  padding-bottom: 5px;
+  padding-left: 13px;
+}
+@media (min-width: 867px) {
+  .navbar {
+    min-height: 0;
+    margin-top:-37px;
+    padding-left: 13px;
+  }
+}
+
+
+/* =Content
+----------------------------------------------- */
+.sidenav {
+  list-style: none;
+  padding: 0;
+  font-size: 0.875em;
+  font-weight: 600;
+}
+.sidenav li {
+  line-height: 2em;
+  border-bottom: 1px solid #ccc;
+}
+.vws-aside {
+  font-weight: 600;
+  font-size: 0.875em;
+}
+.vws-aside cite {
+  font-weight: 300;
+  display: block;
+  text-align: right;
+  padding-top: 0.5em;
+}
+
+
+/* =Media
+----------------------------------------------- */
+
+
+
+/* =Navigation
+----------------------------------------------- */
+
+
+
+/* =Comments
+----------------------------------------------- */
+
+
+
+/* =Widgets
+----------------------------------------------- */
+
+
+
+/* =Footer
+----------------------------------------------- */
+
+#colophon {
+  border-top: 1px solid #ddd;
+}
