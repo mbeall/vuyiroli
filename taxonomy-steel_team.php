@@ -2,8 +2,7 @@
 /**
  * The template for displaying Archive pages
  *
- * @package Flint
- * @sub-package Vuyiroli
+ * @package Flint\Vuyiroli
  * @since 0.1
  */
 

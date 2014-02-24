@@ -4,8 +4,7 @@
  *
  * Displays all of the <head> section and everything up till <header>
  *
- * @package Flint
- * @sub-package Vuyiroli
+ * @package Flint\Vuyiroli
  * @since 0.1
  */
 ?>

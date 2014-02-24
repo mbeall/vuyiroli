@@ -2,8 +2,7 @@
 /**
  * The main template file used to display a page when nothing more specific matches a query.
  *
- * @package Flint
- * @sub-package Vuyiroli
+ * @package Flint\Vuyiroli
  * @since 0.1
  */
 
