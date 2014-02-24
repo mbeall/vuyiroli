@@ -16,14 +16,7 @@ get_header(); ?>
 
       <?php while ( have_posts() ) : the_post(); ?>
 
-        <?php
-          $type = get_post_type();
-          if ($type == 'post') :
-            get_template_part( 'format', get_post_format() );
-          else :
-            get_template_part( 'type', $type );
-          endif;
-        ?>
+        <?php get_template_part( 'format', get_post_format() ); ?>
 
       <?php endwhile; ?>
 
