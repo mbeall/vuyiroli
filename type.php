@@ -2,8 +2,7 @@
 /**
  * The template used for displaying custom post type content
  *
- * @package Flint
- * @sub-package Vuyiroli
+ * @package Flint\Vuyiroli
  * @since 0.1
  */
 ?>

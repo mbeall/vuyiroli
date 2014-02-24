@@ -4,8 +4,7 @@
  *
  * Displays the branding header element
  *
- * @package Flint
- * @sub-package Vuyiroli
+ * @package Flint\Vuyiroli
  * @since 0.1
  */
 ?>

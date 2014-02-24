@@ -2,8 +2,7 @@
 /**
  * Flint functions and definitions
  *
- * @package Flint
- * @sub-package Vuyiroli
+ * @package Flint\Vuyiroli
  * @since Vuyiroli 0.1
  */
 

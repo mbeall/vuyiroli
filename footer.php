@@ -4,8 +4,7 @@
  *
  * Contains the closing of the id=main div and all content after
  *
- * @package Flint
- * @sub-package Vuyiroli
+ * @package Flint\Vuyiroli
  * @since 0.1
  */
 ?>

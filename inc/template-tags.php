@@ -2,8 +2,7 @@
 /**
  * Custom template tags for this theme.
  *
- * @package Flint
- * @sub-package Vuyiroli
+ * @package Flint\Vuyiroli
  * @since 0.1
  */
 
